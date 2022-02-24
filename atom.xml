@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-02-24T09:03:38.883Z</updated>
+  <updated>2022-02-24T12:12:20.760Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>vi和vim编辑器</title>
+    <link href="http://yoursite.com/posts/b400.html"/>
+    <id>http://yoursite.com/posts/b400.html</id>
+    <published>2022-02-24T12:10:24.000Z</published>
+    <updated>2022-02-24T12:12:20.760Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux目录结构</title>
     <link href="http://yoursite.com/posts/2046.html"/>
     <id>http://yoursite.com/posts/2046.html</id>
     <published>2022-02-24T09:00:45.000Z</published>
-    <updated>2022-02-24T09:03:38.883Z</updated>
+    <updated>2022-02-24T09:04:07.962Z</updated>
     
     <summary type="html">
     
